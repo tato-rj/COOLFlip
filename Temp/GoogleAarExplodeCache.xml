@@ -1,0 +1,101 @@
+<aars>
+  <explodeData>
+    <aar>play-services-ads-10.2.1</aar>
+    <modificationTime>2017-03-31T16:12:59.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-10.2.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-ads-lite-10.2.1</aar>
+    <modificationTime>2017-03-31T16:12:59.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/play-services-ads-lite-10.2.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-base-10.2.1</aar>
+    <modificationTime>2017-03-31T16:13:00.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/play-services-base-10.2.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-10.2.1</aar>
+    <modificationTime>2017-03-31T16:13:00.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/play-services-basement-10.2.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-clearcut-10.2.1</aar>
+    <modificationTime>2017-03-31T16:12:59.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/play-services-clearcut-10.2.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-gass-10.2.1</aar>
+    <modificationTime>2017-03-31T16:13:00.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/play-services-gass-10.2.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-tasks-10.2.1</aar>
+    <modificationTime>2017-03-31T16:12:59.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/play-services-tasks-10.2.1.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-annotations-24.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/support-annotations-24.0.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-v4-24.0.0</aar>
+    <modificationTime>2017-03-31T16:12:51.0000000-04:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.leftlaneapps.coolflip</bundleId>
+    <path>Assets/Plugins/Android/support-v4-24.0.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>true</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
